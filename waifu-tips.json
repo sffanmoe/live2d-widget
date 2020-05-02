@@ -24,10 +24,10 @@
 		"selector": "#waifu-tool .fa-times",
 		"text": ["到了要说再见的时候了吗？", "呜呜 QAQ 后会有期……", "不要抛弃我呀……", "我们，还能再见面吗……", "哼，你会后悔的！"]
 	}, {
-		"selector": "#menu-item-15",
+		"selector": ".menu-item-15 a",
 		"text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦。", "点它就可以回到首页啦！", "回首页看看吧。"]
 	}, {
-		"selector": "#menu-item-16",
+		"selector": ".menu-item-16 a",
 		"text": ["你想知道我家主人是谁吗？", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！"]
 	}, {
 		"selector": ".menu-item-tags a",
@@ -45,7 +45,7 @@
 		"selector": ".menu-item-search a",
 		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
 	}, {
-		"selector": "#menu-item-17",
+		"selector": ".menu-item-17 a",
 		"text": ["快看看这里都有什么呢？"]
 	}, {
 		"selector": ".site-author",
