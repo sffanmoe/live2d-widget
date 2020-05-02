@@ -129,7 +129,7 @@
 		"selector": ".need-share-button_qqzone",
 		"text": ["QQ 空间，一键转发，耶～"]
 	}, {
-		"selector": ".need-share-button_twitter",
+		"selector": ".live2d-widget-customized",
 		"text": ["Twitter？好像是不存在的东西？"]
 	}, {
 		"selector": ".need-share-button_facebook",
@@ -173,6 +173,26 @@
 	}, {
 		"selector": ".vcontent",
 		"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
+	}, {
+		"selector": ".menu-item-25",
+		"text": ["Twitter？好像是不存在的东西？"]
+	}, {
+		"selector": ".menu-item-27",
+		"text": ["快发email给主人吧!"]
+	}, {
+		"selector": ".menu-item-43",
+		"text": ["哔哩哔哩 - ( ゜- ゜)つロ 乾杯～"]
+	}, {
+		"selector": ".menu-item-115",
+		"text": ["emmm…YTB 好像也是不存在的东西？"]
+	}, {
+		"selector": ".menu-item-58",
+		"text": ["这是主人的steam账号哦～"]
+	}, {
+		"selector": ".menu-item-72",
+		"text": ["一起听歌吧！"]
+	
+		
 	}],
 	"click": [{
 		"selector": "#waifu #live2d",
