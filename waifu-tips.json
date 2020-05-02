@@ -192,13 +192,13 @@
 		"selector": ".menu-item-72 a",
 		"text": ["一起听歌吧！"]
 	}, {
-		"selector": ".media_audio-5 a",
+		"selector": ".media_audio-5",
 		"text": ["听之前别忘了带上耳机哦～"]
 	}, {
-		"selector": ".media_audio-7 a",
+		"selector": ".media_audio-7",
 		"text": ["μ天下第一！"]
 	}, {
-		"selector": ".media_audio-8 a",
+		"selector": ".media_audio-8",
 		"text": ["上田无双！"]
 		
 	
