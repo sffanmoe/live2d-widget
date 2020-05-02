@@ -178,7 +178,7 @@
 		"text": ["Twitter？好像是不存在的东西？"]
 	}, {
 		"selector": ".menu-item-27",
-		"text": ["快发email给主人吧!"]
+		"text": ["邮件我会及时回复的！", "点击就可以发送邮件啦～"]
 	}, {
 		"selector": ".menu-item-43",
 		"text": ["哔哩哔哩 - ( ゜- ゜)つロ 乾杯～"]
@@ -191,6 +191,16 @@
 	}, {
 		"selector": ".menu-item-72",
 		"text": ["一起听歌吧！"]
+	}, {
+		"selector": ".media_audio-5",
+		"text": ["听之前别忘了带上耳机哦～"]
+	}, {
+		"selector": ".media_audio-7",
+		"text": ["μ天下第一！"]
+	}, {
+		"selector": ".media_audio-8",
+		"text": ["上田无双！"]
+		
 	
 		
 	}],
