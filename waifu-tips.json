@@ -60,7 +60,7 @@
 		"selector": ".cc-opacity, .post-copyright-author",
 		"text": ["要记得规范转载哦。", "所有文章均采用 CC BY-NC-SA 4.0 许可协议～", "转载前要先注意下文章的版权协议呢。"]
 	}, {
-		"selector": ".menu-item-18",
+		"selector": ".menu-item-18 a",
 		"text": ["这里是主人的常驻地址哦。", "这里有主人的联系方式！"]
 	}, {
 		"selector": "#qrcode",
@@ -174,31 +174,31 @@
 		"selector": ".vcontent",
 		"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
 	}, {
-		"selector": ".menu-item-25",
+		"selector": ".menu-item-25 a",
 		"text": ["Twitter？好像是不存在的东西？"]
 	}, {
-		"selector": ".menu-item-27",
+		"selector": ".menu-item-27 a",
 		"text": ["邮件我会及时回复的！", "点击就可以发送邮件啦～"]
 	}, {
-		"selector": ".menu-item-43",
+		"selector": ".menu-item-43 a",
 		"text": ["哔哩哔哩 - ( ゜- ゜)つロ 乾杯～"]
 	}, {
-		"selector": ".menu-item-115",
+		"selector": ".menu-item-115 a",
 		"text": ["emmm…YTB 好像也是不存在的东西？"]
 	}, {
-		"selector": ".menu-item-58",
+		"selector": ".menu-item-58 a",
 		"text": ["这是主人的steam账号哦～"]
 	}, {
-		"selector": ".menu-item-72",
+		"selector": ".menu-item-72 a",
 		"text": ["一起听歌吧！"]
 	}, {
-		"selector": ".media_audio-5",
+		"selector": ".media_audio-5 a",
 		"text": ["听之前别忘了带上耳机哦～"]
 	}, {
-		"selector": ".media_audio-7",
+		"selector": ".media_audio-7 a",
 		"text": ["μ天下第一！"]
 	}, {
-		"selector": ".media_audio-8",
+		"selector": ".media_audio-8 a",
 		"text": ["上田无双！"]
 		
 	
