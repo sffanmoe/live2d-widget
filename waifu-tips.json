@@ -45,7 +45,7 @@
 		"selector": ".menu-item-search a",
 		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
 	}, {
-		"selector": ".menu-item a",
+		"selector": ".menu-item-17 a",
 		"text": ["快看看这里都有什么呢？"]
 	}, {
 		"selector": ".site-author",
@@ -60,7 +60,7 @@
 		"selector": ".cc-opacity, .post-copyright-author",
 		"text": ["要记得规范转载哦。", "所有文章均采用 CC BY-NC-SA 4.0 许可协议～", "转载前要先注意下文章的版权协议呢。"]
 	}, {
-		"selector": ".links-of-author",
+		"selector": ".menu-item-18",
 		"text": ["这里是主人的常驻地址哦。", "这里有主人的联系方式！"]
 	}, {
 		"selector": "#qrcode",
