@@ -200,7 +200,12 @@
 	}, {
 		"selector": "#media_audio-8",
 		"text": ["上田无双！"]
-		
+	}, {
+		"selector": "#search-6",
+		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
+        }, {
+		"selector": "#archives-7",
+		"text": ["这里是文章归档哦～"]	
 	
 		
 	}],
