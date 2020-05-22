@@ -81,13 +81,13 @@
 		"selector": "a[href^='/tags/']",
 		"text": ["要去看看 <span>{text}</span> 标签么？", "点它可以查看此标签下的所有文章哟！"]
 	}, {
-		"selector": "a[href^='/categories/']",
+		"selector": "#cat",
 		"text": ["要去看看 <span>{text}</span> 分类么？", "点它可以查看此分类下的所有文章哟！"]
 	}, {
-		"selector": ".post-title-link",
+		"selector": ".post-title",
 		"text": ["要看看 <span>{text}</span> 这篇文章吗？"]
 	}, {
-		"selector": "a[rel='contents']",
+		"selector": "a[rel='bookmark']",
 		"text": ["点击来阅读全文哦。"]
 	}, {
 		"selector": "a[itemprop='discussionUrl']",
@@ -96,7 +96,7 @@
 		"selector": ".beian a",
 		"text": ["我也是有户口的人哦。", "我的主人可是遵纪守法的好主人。"]
 	}, {
-		"selector": ".container a[href^='http'], .nav-link .nav-text",
+		"selector": ".container a[href^='https'], .link-text",
 		"text": ["要去看看 <span>{text}</span> 么？", "去 <span>{text}</span> 逛逛吧。", "到 <span>{text}</span> 看看吧。"]
 	}, {
 		"selector": ".back-to-top",
@@ -129,16 +129,16 @@
 		"selector": ".need-share-button_qqzone",
 		"text": ["QQ 空间，一键转发，耶～"]
 	}, {
-		"selector": ".live2d-widget-customized",
+		"selector": ".need-share-button_Twitter",
 		"text": ["Twitter？好像是不存在的东西？"]
 	}, {
 		"selector": ".need-share-button_facebook",
 		"text": ["emmm…FB 好像也是不存在的东西？"]
 	}, {
-		"selector": ".post-nav-item a[rel='next']",
+		"selector": ".nav-next a[rel='next']",
 		"text": ["来看看下一篇文章吧。", "点它可以看下一篇文章哦！", "要翻到下一篇文章吗？"]
 	}, {
-		"selector": ".post-nav-item a[rel='prev']",
+		"selector": ".nav-previous a[rel='prev']",
 		"text": ["来看看上一篇文章吧。", "点它可以看上一篇文章哦！", "要翻到上一篇文章吗？"]
 	}, {
 		"selector": ".extend.next",
@@ -147,13 +147,13 @@
 		"selector": ".extend.prev",
 		"text": ["去上一页看看吧。", "点它可以后退哦！", "要翻到上一页吗？"]
 	}, {
-		"selector": "input.vnick",
+		"selector": "#author",
 		"text": ["该怎么称呼你呢？", "留下你的尊姓大名！"]
 	}, {
-		"selector": ".vmail",
+		"selector": "#email",
 		"text": ["留下你的邮箱，不然就是无头像人士了！", "记得设置好 Gravatar 头像哦！", "为了方便通知你最新消息，一定要留下邮箱！"]
 	}, {
-		"selector": ".vlink",
+		"selector": "#url",
 		"text": ["快快告诉我你的家在哪里，好让我去参观参观！"]
 	}, {
 		"selector": ".veditor",
@@ -168,10 +168,10 @@
 		"selector": ".vpreview-btn",
 		"text": ["要预览一下你的发言吗？", "快看看你的评论有多少负熵！"]
 	}, {
-		"selector": ".vsubmit",
+		"selector": "#submit",
 		"text": ["评论没有审核，要对自己的发言负责哦～", "要提交了吗，请耐心等待回复哦～"]
 	}, {
-		"selector": ".vcontent",
+		"selector": "#comment",
 		"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
 	}, {
 		"selector": "#menu-item-25",
@@ -205,10 +205,10 @@
 		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
         }, {
 		"selector": "#archives-7",
-		"text": ["这里是文章归档哦～"]	
+		"text": ["翻页比较麻烦吗，那就来看看文章归档吧。", "文章目录都整理在这里啦！"]	
         }, {
 		"selector": "#categories-4",
-		"text": ["这里是文章分类哦～"]	
+		"text": ["文章都分类好啦～", "点击来查看文章分类哦。"]	
 	
 		
 	}],
