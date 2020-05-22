@@ -81,10 +81,10 @@
 		"selector": "a[href^='/tags/']",
 		"text": ["要去看看 <span>{text}</span> 标签么？", "点它可以查看此标签下的所有文章哟！"]
 	}, {
-		"selector": ".level",
+		"selector": "a[href^='/categorie/']",
 		"text": ["要去看看 <span>{text}</span> 分类么？", "点它可以查看此分类下的所有文章哟！"]
 	}, {
-		"selector": ".post-title .post-thumbnail",
+		"selector": ".post-title, .post-thumbnail",
 		"text": ["要看看 <span>{text}</span> 这篇文章吗？"]
 	}, {
 		"selector": "a[rel='bookmark']",
