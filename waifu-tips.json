@@ -84,7 +84,7 @@
 		"selector": "a[href^='/categorie/']",
 		"text": ["要去看看 <span>{text}</span> 分类么？", "点它可以查看此分类下的所有文章哟！"]
 	}, {
-		"selector": ".post-title, .post-thumbnail",
+		"selector": ".post-header",
 		"text": ["要看看 <span>{text}</span> 这篇文章吗？"]
 	}, {
 		"selector": "a[rel='bookmark']",
@@ -156,7 +156,7 @@
 		"selector": "#url",
 		"text": ["快快告诉我你的家在哪里，好让我去参观参观！"]
 	}, {
-		"selector": ".comment-link caps",
+		"selector": ".comment-link",
 		"text": ["想要去评论些什么吗？", "要说点什么吗？", "觉得博客不错？快来留言和主人交流吧！"]
 	}, {
 		"selector": ".vcontrol a",
