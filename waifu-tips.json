@@ -206,6 +206,9 @@
         }, {
 		"selector": "#archives-7",
 		"text": ["这里是文章归档哦～"]	
+        }, {
+		"selector": "#categories-4",
+		"text": ["这里是文章分类哦～"]	
 	
 		
 	}],
